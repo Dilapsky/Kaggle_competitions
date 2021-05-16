@@ -1,2 +1,1 @@
-# masterthesis
 # Kaggle_competitions
