@@ -1,6 +1,7 @@
 These codes show my work in the Kaggle competetion: iMet Collection 2019 - FGVC6  
+https://www.kaggle.com/competitions/imet-2019-fgvc6
 In this competetion, the deep learning framework I used is called Fastai. Fastai is a deep learning library based on pytorch framework. Fastai is very convenient to apply in deep learning tasks like computer vision.  
-In the final evaluation, I ranked 71st among all 521 global competetors, and got a bronze medal, which is my third bronze medal I received in Kaggle competition.  
+In the final evaluation, I ranked 71st among all 521 global competetors, and got a bronze medal, which is my third bronze medal I received in Kaggle competition.  https://www.kaggle.com/dilapsky
   
 Here I show some part of my work with descriptions:  
 fastai-resnet101-imet-7fold-example.ipynb: This script shows how I establish and train the deep learning network based on 7-fold cross-validation of the inputs. In the competetion, I trained two networks: One is resnet50, the other is inceptionresnet.  
